@@ -54,3 +54,8 @@ The frontend is deployed on vercel. You can visit it at [HousingAtEase on Vercel
 The backend is also deployed using vercel, a cloud application hosting platform for developers.
 
 
+📬 Contact
+If you'd like to connect, collaborate, or discuss opportunities, feel free to reach out:
+
+👤 Name: Nipun Tyagi
+📧 Email: nipuntyagi7007@gmail.com
